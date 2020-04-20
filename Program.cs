@@ -7,6 +7,7 @@ namespace advanced_git_001
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Added a new line without creating a new branch. Should go into the master branch");
         }
     }
 }
