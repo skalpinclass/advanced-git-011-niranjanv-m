@@ -8,6 +8,7 @@ namespace advanced_git_001
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Added a new line without creating a new branch. Should go into the master branch");
+            Console.WriteLine("Added a new line representing a feature to be added to branch_for_featire1 branch.");
         }
     }
 }
